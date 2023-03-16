@@ -87,3 +87,17 @@ is a subject matter expert on Java, ASP .NET MVC, and Python applications with s
 
  <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
 <p align="center"> <a href="https://packt.link/free-ebook/9781803245966">https://packt.link/free-ebook/9781803245966 </a> </p>
+
+
+## Chapter list
+* Setting up FastAPI for starters
+* Exploring the core features
+* Investigating Dependency Injection
+* Building the Microservice Application
+* Connecting to a Relational Database
+* Using a non-Relational Database
+* Securing the REST APIs
+* Creating Coroutines, Events, and Message-driven Transactions
+* Utilizing other advanced features
+* Solving numerical, symbolic, and graphical problems
+* Adding other microservice features
