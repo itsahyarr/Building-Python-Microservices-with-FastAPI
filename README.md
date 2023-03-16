@@ -90,7 +90,7 @@ is a subject matter expert on Java, ASP .NET MVC, and Python applications with s
 
 
 ## Chapter list
-* [CHAPTER 01] Setting up FastAPI for starters
+* [CHAPTER 01] **Setting up FastAPI for starters**
 * [CHAPTER 02] Exploring the core features
 * [CHAPTER 03] Investigating Dependency Injection
 * [CHAPTER 04] Building the Microservice Application
