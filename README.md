@@ -90,14 +90,14 @@ is a subject matter expert on Java, ASP .NET MVC, and Python applications with s
 
 
 ## Chapter list
-* [CHAPTER 01] **Setting up FastAPI for starters**
-* [CHAPTER 02] Exploring the core features
-* [CHAPTER 03] Investigating Dependency Injection
-* [CHAPTER 04] Building the Microservice Application
-* [CHAPTER 05] Connecting to a Relational Database
-* [CHAPTER 06] Using a non-Relational Database
-* [CHAPTER 07] Securing the REST APIs
-* [CHAPTER 08] Creating Coroutines, Events, and Message-driven Transactions
-* [CHAPTER 09] Utilizing other advanced features
-* [CHAPTER 10] Solving numerical, symbolic, and graphical problems
-* [CHAPTER 11] Adding other microservice features
+* CHAPTER 01 : Setting up FastAPI for starters
+* CHAPTER 02 : Exploring the core features
+* CHAPTER 03 : Investigating Dependency Injection
+* CHAPTER 04 : Building the Microservice Application
+* CHAPTER 05 : Connecting to a Relational Database
+* CHAPTER 06 : Using a non-Relational Database
+* CHAPTER 07 : Securing the REST APIs
+* CHAPTER 08 : Creating Coroutines, Events, and Message-driven Transactions
+* CHAPTER 09 : Utilizing other advanced features
+* CHAPTER 10 : Solving numerical, symbolic, and graphical problems
+* CHAPTER 11 : Adding other microservice features
